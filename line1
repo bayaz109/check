@@ -1,7 +1,13 @@
 a
+<<<<<<< HEAD
+b
+c
+d
+=======
 d
 c
 b
+>>>>>>> origin/m2
 e
 f
 g
